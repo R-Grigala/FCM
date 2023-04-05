@@ -18,6 +18,7 @@ export default function App() {
   return (
 
     <View style={StyleSheet.container}>
+      
       <Text style={{color:'red', margin:80}}>FCM Tutorial Using React Native & Expo</Text>
       
     </View>
