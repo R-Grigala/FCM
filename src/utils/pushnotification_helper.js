@@ -50,7 +50,7 @@ export const NotificationListner =() => {
             'Notification caused app to open from quit state:',
             remoteMessage.notification,
           );
-          setInitialRoute(remoteMessage.data.type); // e.g. "Settings"
+          // setInitialRoute(remoteMessage.data.type); // e.g. "Settings"
         }
       });
 
