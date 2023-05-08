@@ -1,0 +1,2 @@
+for start projet:
+    npx react-native start
